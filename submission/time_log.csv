@@ -1,1 +1,3 @@
 step,images,minutes,note
+gold_manual,4,22,4 ảnh gold gán tay trên CVAT theo guideline v1.0
+batch_review,24,4,24 ảnh batch duyệt trên CVAT (~0.17 phút/ảnh)
